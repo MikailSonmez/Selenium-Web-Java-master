@@ -20,6 +20,7 @@ public class LoginPage {
     private By txt_EmptyPassword = By.xpath("[data-cv-field='Password']");
     private By txt_Name = By.id("ysUserName");
     private By btn_PopupClose = By.cssSelector(".modal-header-close");
+    
 
 
     // Constructor
